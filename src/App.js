@@ -11,8 +11,10 @@ function App() {
 // AKT
   return (
     <div>
+      <div className='bg-head'>
        <Tophead  />
        <Logovs />
+       </div>
       <div className='rainbown-line'/>
       <Allproducts/>
       <Navigation/>   

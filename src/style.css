@@ -370,10 +370,18 @@ ol {
 
 }
 
+
 .lists-inner {
     text-align: left;
     line-height: 1.5;
     margin-bottom: 20px;
     font-size: 16px;
     
+}
+
+.bg-head {
+    background-color: black;
+    padding: 0px 60px 20px 60px;
+    max-width: 2200px;
+    min-width: 500px;
 }
