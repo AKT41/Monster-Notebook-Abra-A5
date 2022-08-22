@@ -8,7 +8,7 @@ import SliderText from './components/sliderText'
 
 
 function App() {
-
+// AKT
   return (
     <div>
        <Tophead  />
