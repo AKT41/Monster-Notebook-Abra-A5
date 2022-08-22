@@ -5,8 +5,7 @@ import Allproducts from './components/allproducts'
 import Navigation from './components/navigation'
 import Slider from './components/Slider/Slider'
 import SliderText from './components/sliderText'
-import { FaBeer } from 'react-icons/fa';
-import axios from 'axios'
+
 
 function App() {
 
