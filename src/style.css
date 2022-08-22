@@ -364,11 +364,13 @@ ol {
     margin: 0 auto;
 }
 
-.repair-icon {
+.icons {
     width: 24px;
     height: 24px;
-
+    margin: 0px 14px  0 0;
+    background-color: #82a4b2a9 ;
 }
+
 
 
 .lists-inner {
@@ -377,11 +379,9 @@ ol {
     margin-bottom: 20px;
     font-size: 16px;
     
+    
 }
 
-.bg-head {
-    background-color: black;
-    padding: 0px 60px 20px 60px;
-    max-width: 2200px;
-    min-width: 500px;
+.inner1 {
+    width: 560px;
 }

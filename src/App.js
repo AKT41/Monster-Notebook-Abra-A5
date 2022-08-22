@@ -5,23 +5,24 @@ import Allproducts from './components/allproducts'
 import Navigation from './components/navigation'
 import Slider from './components/Slider/Slider'
 import SliderText from './components/sliderText'
-
+import { FaBeer } from 'react-icons/fa';
+import axios from 'axios'
 
 function App() {
-// AKT
+
   return (
     <div>
-      <div className='bg-head'>
        <Tophead  />
        <Logovs />
-       </div>
       <div className='rainbown-line'/>
       <Allproducts/>
       <Navigation/>   
       <hr className='m-0'/>
+      <div className='inner1'>
       <Slider/>
       <SliderText/>
-      
+      </div>
+
       </div>
   );
 }
